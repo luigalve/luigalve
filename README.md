@@ -46,7 +46,9 @@ Built for anyone who has ever gotten lost or overwhelmed halfway through a long 
 This first walkthrough takes an older BIOS-only desktop out of retirement and turns it into a running Proxmox server, including every way the hardware fought back and every fix that worked. 
 One toggle switches the whole guide between older BIOS machines and newer UEFI ones, so both paths are covered.
 
-[Try it live](https://YOUR-USERNAME.github.io/proxmox-old-pc/) | [View the source](https://github.com/YOUR-USERNAME/proxmox-old-pc) | [Take the full guide as one file](https://github.com/YOUR-USERNAME/proxmox-old-pc/blob/main/docs/full-walkthrough.md)
+**[Try it live](https://luigalve.github.io/Proxmox-old-pc/)** &middot; [Take the full guide as one file](docs/full-walkthrough.md)
+
+[Try it live](https://YOUR-USERNAME.github.io/proxmox-old-pc/) | [View the source](https://github.com/luigalve/Proxmox-old-pc) | [Take the full guide as one file](https://github.com/luigalve/Proxmox-old-pc/blob/main/docs/full-walkthrough.md)
 
 ### Build Your Own Walkthrough App
 
