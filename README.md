@@ -23,16 +23,22 @@ Here are some ideas to get you started:
 
 IT support technician. CompTIA A+ and Google IT Support certified.
 Currently preparing for the Azure Administrator exam (AZ-104). 
-Bilingual: English and Spanish.
 
-This GitHub exists to document my home lab, share the tools I build while studying, and show my work in public. 
 I learn by building. Everything below runs on hardware I set up, broke, and fixed myself, and nearly all of it is administered remotely.
-<!-- Optional: a two-line Spanish version of the intro can go here. May add later. -->
+
+<sub>This GitHub exists to share the tools I build while studying and show my work in public.</sub>
+
+<!-- Optional: a two-line Spanish version of the intro can go here. -->
 
 ## Start here: One Step at a Time Apps
 
-Interactive runbooks for real IT projects: tick the actions, complete the step, and watch it turn green. 
-Built for anyone who has ever gotten lost or overwhelmed halfway through a long guide: the apps put a single step on screen, broken into a short list of checkable actions, so the task in front of you always feels doable. 
+
+**Interactive runbooks for completed IT projects**
+Tick the actions, complete the step, and watch it turn green. 
+
+Built for anyone who has ever gotten lost or overwhelmed halfway through a long guide.
+<sub>_The apps put a single **step** on screen, broken into a short list of checkable **actions**, so the task in front of you always feels doable._</sub> 
+
 
 
 ### [Install Proxmox VE on an Old PC](https://YOUR-USERNAME.github.io/proxmox-old-pc/)
