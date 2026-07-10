@@ -37,18 +37,19 @@ The apps put a single **step** on screen, broken into a short list of checkable 
 
 
 
-### [Install Proxmox VE on an Old PC](https://luigalve.github.io/Proxmox-old-pc/)
+### [Install Proxmox on an Old PC](https://luigalve.github.io/proxmox-old-pc/)
 
 This first walkthrough takes an older BIOS-only desktop out of retirement and turns it into a running Proxmox server, including every way the hardware fought back and every fix that worked. 
 One toggle switches the whole guide between older BIOS machines and newer UEFI ones, so both paths are covered.
 
-**[Try it live](https://luigalve.github.io/Proxmox-old-pc/)** &middot; [View the source](https://github.com/luigalve/Proxmox-old-pc) &middot; [Take the full guide as one file](https://github.com/luigalve/Proxmox-old-pc/blob/main/docs/full-walkthrough.md)
+**[Try it live](https://luigalve.github.io/proxmox-old-pc/)** &middot; [View the source](https://github.com/luigalve/proxmox-old-pc/index.html) &middot; [Take the full guide as one file](https://github.com/luigalve/proxmox-old-pc/blob/main/docs/full-walkthrough.md)
 
 ### Build Your Own Walkthrough App
 
 This eleven-step course that teaches someone with zero coding experience to plan, hand-build, and publish a walkthrough app like the one above for their own project: HTML, CSS, JSON, and JavaScript, one card at a time, ending with their app live on GitHub Pages. Every bug in its troubleshooting panels happened for real while building it.
 
-[Try it live]([GitHub Pages link]) &middot; [Source]([repo link]) &middot; [Take the full guide as one file]([docs/full-walkthrough.md link])
+**[Try it live](https://luigalve.github.io/build-your-own-walkthrough/)** &middot; [View the source](https://github.com/luigalve/build-your-own-walkthrough) &middot; [Take the full guide as one file](https://github.com/luigalve/build-your-own-walkthrough/blob/main/docs/full-walkthrough.md)
+
 
 *Skills: teaching and curriculum design, HTML/CSS, JavaScript, JSON, Python docs automation, GitHub Pages*
 
