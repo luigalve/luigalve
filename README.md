@@ -21,23 +21,21 @@ Here are some ideas to get you started:
 
 # Hi, I'm Luis
 
-IT support technician. CompTIA A+ and Google IT Support certified.
+IT support technician. CompTIA A+ and Google IT Support certified.<br>
 Currently preparing for the Azure Administrator exam (AZ-104). 
 
-I learn by building. Everything below runs on hardware I set up, broke, and fixed myself, and nearly all of it is administered remotely.
-
-<sub>This GitHub exists to share the tools I build while studying and show my work in public.</sub>
+I learn by building. Everything below runs on hardware I set up, broke, and fixed myself, and nearly all of it is administered remotely.<br>
+<sub>_This GitHub exists to share the tools I build while studying and show my work in public._</sub>
 
 <!-- Optional: a two-line Spanish version of the intro can go here. -->
 
-## Start here: One Step at a Time Apps
+## One Step at a Time Apps
 
+**Interactive runbooks for completed IT projects**<br>
+Tick the actions, complete the step, and watch it turn green<br>
 
-**Interactive runbooks for completed IT projects**
-Tick the actions, complete the step, and watch it turn green. 
-
-Built for anyone who has ever gotten lost or overwhelmed halfway through a long guide.
-<sub>_The apps put a single **step** on screen, broken into a short list of checkable **actions**, so the task in front of you always feels doable._</sub> 
+<sub>_Built for anyone who has ever gotten lost or overwhelmed halfway through a long guide.<br>
+The apps put a single **step** on screen, broken into a short list of checkable **actions**, so the task in front of you always feels doable._</sub> 
 
 
 
@@ -46,9 +44,7 @@ Built for anyone who has ever gotten lost or overwhelmed halfway through a long 
 This first walkthrough takes an older BIOS-only desktop out of retirement and turns it into a running Proxmox server, including every way the hardware fought back and every fix that worked. 
 One toggle switches the whole guide between older BIOS machines and newer UEFI ones, so both paths are covered.
 
-**[Try it live](https://luigalve.github.io/Proxmox-old-pc/)** &middot; [Take the full guide as one file](docs/full-walkthrough.md)
-
-[Try it live](https://YOUR-USERNAME.github.io/proxmox-old-pc/) | [View the source](https://github.com/luigalve/Proxmox-old-pc) | [Take the full guide as one file](https://github.com/luigalve/Proxmox-old-pc/blob/main/docs/full-walkthrough.md)
+**[Try it live](https://luigalve.github.io/Proxmox-old-pc/)** &middot; [View the source](https://github.com/luigalve/Proxmox-old-pc) &middot; [Take the full guide as one file](https://github.com/luigalve/Proxmox-old-pc/blob/main/docs/full-walkthrough.md)
 
 ### Build Your Own Walkthrough App
 
