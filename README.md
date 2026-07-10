@@ -20,35 +20,46 @@ Here are some ideas to get you started:
 # Hi, I'm Luis
 
 IT support technician. CompTIA A+ and Google IT Support certified.<br>
-Currently preparing for the Azure Administrator exam (AZ-104). 
+<sub>Currently preparing for the Azure Administrator exam (AZ-104).</sub>
+<br>
+<br>
 
-I learn by building. Everything below runs on hardware I set up, broke, and fixed myself, and nearly all of it is administered remotely.<br>
+I learn by building. <br>
+Everything below runs on hardware I set up, broke, and fixed myself,<br>
+and nearly all of it is administered remotely.<br>
+
 <sub>_This GitHub exists to share the tools I build while studying and show my work in public._</sub>
 
 <!-- Optional: a two-line Spanish version of the intro can go here. -->
 
 ## One Step at a Time Apps
 
-**Interactive runbooks for completed IT projects**<br>
-Tick the actions, complete the step, and watch it turn green<br>
+**Interactive runbooks for completed IT projects** <br>
+The apps put a single **step** on screen, broken into a short list of checkable **actions**, so the task in front of you always feels doable.
+<br>
 
-<sub>_Built for anyone who has ever gotten lost or overwhelmed halfway through a long guide.<br>
-The apps put a single **step** on screen, broken into a short list of checkable **actions**, so the task in front of you always feels doable._</sub> 
+
+_Tick the **actions**, complete the **step**, and watch it turn green!_<br>
+<sub>Built for anyone who has ever gotten lost or overwhelmed halfway through a long guide.</sub>
 
 
 
 ### [Install Proxmox on an Old PC](https://luigalve.github.io/proxmox-old-pc/)
 
-This first walkthrough takes an older BIOS-only desktop out of retirement and turns it into a running Proxmox server, including every way the hardware fought back and every fix that worked. 
+This first 7-step walkthrough takes an older BIOS-only desktop out of retirement and turns it into a running Proxmox server, including every way the hardware fought back and every fix that worked. 
 One toggle switches the whole guide between older BIOS machines and newer UEFI ones, so both paths are covered.
 
-**[Try it live](https://luigalve.github.io/proxmox-old-pc/)** &middot; [View the source](https://github.com/luigalve/proxmox-old-pc/index.html) &middot; [Take the full guide as one file](https://github.com/luigalve/proxmox-old-pc/blob/main/docs/full-walkthrough.md)
+**[Try it live](https://luigalve.github.io/proxmox-old-pc/)** &middot; [View the source](https://github.com/luigalve/proxmox-old-pc/blob/main/index.html) &middot; [Take the full guide as one file](https://github.com/luigalve/proxmox-old-pc/blob/main/docs/full-walkthrough.md)
 
-### Build Your Own Walkthrough App
+*Skills: teaching and curriculum design, Proxmox virtualization, Legacy BIOS & UEFI Configuration, Bootloader Mechanics, Checksum Integrity Verification, Network Interface Configuration, Web-Based Hypervisor Management*
+<br>
+<br>
 
-This eleven-step course that teaches someone with zero coding experience to plan, hand-build, and publish a walkthrough app like the one above for their own project: HTML, CSS, JSON, and JavaScript, one card at a time, ending with their app live on GitHub Pages. Every bug in its troubleshooting panels happened for real while building it.
+### [Build Your Own Walkthrough App](https://luigalve.github.io/build-your-own-walkthrough/)
 
-**[Try it live](https://luigalve.github.io/build-your-own-walkthrough/)** &middot; [View the source](https://github.com/luigalve/build-your-own-walkthrough) &middot; [Take the full guide as one file](https://github.com/luigalve/build-your-own-walkthrough/blob/main/docs/full-walkthrough.md)
+This 11-step course teaches someone with zero coding experience to plan, hand-build, and publish a walkthrough app like the one above for their own project: HTML, CSS, JSON, and JavaScript, one card at a time, ending with their app live on GitHub Pages. Every bug in its troubleshooting panels happened for real while building it.
+
+**[Try it live](https://luigalve.github.io/build-your-own-walkthrough/)** &middot; [View the source](https://github.com/luigalve/build-your-own-walkthrough/blob/main/index.html) &middot; [Take the full guide as one file](https://github.com/luigalve/build-your-own-walkthrough/blob/main/docs/full-walkthrough.md)
 
 
 *Skills: teaching and curriculum design, HTML/CSS, JavaScript, JSON, Python docs automation, GitHub Pages*
