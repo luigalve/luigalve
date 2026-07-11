@@ -29,7 +29,11 @@ Here are some ideas to get you started:
 
 <p align="left">
   <img src="./assets/Hi-Im-capsule.svg" alt="Hi, I'm Luis" />
-  </p>
+</p>
+
+<p align="left">
+  <img src="./assets/IT-Sup-capsule-002.svg" alt="IT support technician. CompTIA A+ and Google IT Support certified. Currently preparing for the Azure Administrator exam (AZ-104)." />
+</p>
 
 IT support technician. CompTIA A+ and Google IT Support certified.<br>
 <sub>Currently preparing for the Azure Administrator exam (AZ-104).</sub>
