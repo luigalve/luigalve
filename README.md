@@ -2,7 +2,17 @@
 **luigalve/luigalve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+<p align="center">
+  <img src="./assets/capsule-1.svg" alt="" />
+</p>
 
+<p align="center">
+  <img src="./assets/capsule-2.svg" alt="" />
+</p>
+
+<p align="center">
+  <img src="./assets/capsule-3.svg" alt="" />
+</p>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -17,8 +27,9 @@ Here are some ideas to get you started:
      That is what makes it render on your profile page.
      House style: no em dashes, no emoji, no badges. -->
 
-
-# Hi, I'm Luis
+<p align="left">
+  <img src="./assets/Hi-Im-capsule.svg" alt="Hi, I'm Luis" />
+  </p>
 
 IT support technician. CompTIA A+ and Google IT Support certified.<br>
 <sub>Currently preparing for the Azure Administrator exam (AZ-104).</sub>
