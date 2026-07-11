@@ -16,9 +16,7 @@ Here are some ideas to get you started:
      This file lives in a public repo named EXACTLY the same as your username.
      That is what makes it render on your profile page.
      House style: no em dashes, no emoji, no badges. -->
-<p align="center">
-  <img src="./assets/capsule-1.svg" alt="" />
-</p>
+
 
 # Hi, I'm Luis
 
