@@ -1,0 +1,26 @@
+<svg viewBox="0 0 760 150" width="760" height="150" xmlns="http://www.w3.org/2000/svg" role="img">
+<!-- Made with Foundry Studio. Self-contained: no scripts, no
+     external requests. Safe to commit and reference forever. -->
+<style>
+.e1_0{stroke-dasharray:1}
+.e1_0{transform-box:fill-box;transform-origin:center;animation:ai1_0 2.1s ease 2.8s 1 both}
+@keyframes ai1_0{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+
+.e1_1{stroke-dasharray:1}
+.e1_1{transform-box:fill-box;transform-origin:center;animation:ai1_1 2s ease 4.6s 1 both}
+@keyframes ai1_1{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+
+.t1_2{animation:ti1_2 1.8s steps(66,end) 3.2s both}
+@keyframes ti1_2{from{width:0}to{width:726px}}
+
+.t1_3{animation:ti1_3 1.8s steps(62,end) 5s both}
+@keyframes ti1_3{from{width:0}to{width:620px}}
+
+@media(prefers-reduced-motion:reduce){*{animation:none !important}}
+</style>
+<defs><clipPath id="t1_2clip"><rect class="t1_2" x="4" y="40" width="0" height="25.2"/></clipPath><clipPath id="t1_3clip"><rect class="t1_3" x="20" y="81" width="0" height="22.4"/></clipPath></defs>
+  <line x1="-20" y1="51" x2="676" y2="51" class="e1_0" fill="#00000000" stroke="#44bba4" stroke-width="39" opacity="1" pathLength="1"/>
+  <line x1="-13" y1="93" x2="583" y2="92" class="e1_1" fill="#00000000" stroke="#44bba4" stroke-width="39" opacity="1" pathLength="1"/>
+  <text x="4" y="58" font-size="18" font-weight="600" font-family="ui-monospace,Menlo,Consolas,monospace" class="e1_2" fill="#D3D0CB" stroke="#00000000" stroke-width="0" opacity="1" clip-path="url(#t1_2clip)">IT support technician. CompTIA A+ and Google IT Support certified.</text>
+  <text x="20" y="97" font-size="16" font-weight="600" font-family="ui-monospace,Menlo,Consolas,monospace" class="e1_3" fill="#e7e5df" stroke="#00000000" stroke-width="0" opacity="1" clip-path="url(#t1_3clip)">Currently preparing for the Azure Administrator exam (AZ-104).</text>
+</svg>
