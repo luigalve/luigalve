@@ -1,0 +1,30 @@
+<svg viewBox="0 0 760 84" width="760" height="84" xmlns="http://www.w3.org/2000/svg" role="img">
+<!-- Made with Foundry Studio. Self-contained: no scripts, no
+     external requests. Safe to commit and reference forever. -->
+<style>
+.e1_0{stroke-dasharray:1}
+.e1_0{transform-box:fill-box;transform-origin:center;animation:ai1_0 2s ease 2.6s 1 both}
+@keyframes ai1_0{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+
+.e1_1{stroke-dasharray:1}
+.e1_1{transform-box:fill-box;transform-origin:center;animation:ai1_1 2s ease 4.6s 1 both}
+@keyframes ai1_1{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+
+.e1_2{transform-box:fill-box;transform-origin:center;animation:tg1_2 3.1s steps(1,end) both}
+.t1_2{animation:ti1_2 1.8s steps(66,end) 3.1s both}
+@keyframes ti1_2{from{width:0}to{width:594px}}
+@keyframes tg1_2{from{opacity:0}to{opacity:1}}
+
+.e1_3{transform-box:fill-box;transform-origin:center;animation:tg1_3 5s steps(1,end) both}
+.t1_3{animation:ti1_3 1.8s steps(62,end) 5s both}
+@keyframes ti1_3{from{width:0}to{width:558px}}
+@keyframes tg1_3{from{opacity:0}to{opacity:1}}
+
+@media(prefers-reduced-motion:reduce){*{animation:none !important}}
+</style>
+<defs><clipPath id="t1_2clip"><rect class="t1_2" x="1" y="11" width="0" height="21"/></clipPath><clipPath id="t1_3clip"><rect class="t1_3" x="2" y="50" width="0" height="21"/></clipPath></defs>
+  <line x1="-6" y1="20" x2="605" y2="20" class="e1_0" fill="#00000000" stroke="#393E41" stroke-width="39" opacity="1" pathLength="1"/>
+  <line x1="-6" y1="61" x2="572" y2="61" class="e1_1" fill="#00000000" stroke="#393E41" stroke-width="39" opacity="1" pathLength="1"/>
+  <text x="1" y="26" font-size="15" font-weight="600" font-family="ui-monospace,Menlo,Consolas,monospace" textLength="594" lengthAdjust="spacingAndGlyphs" class="e1_2" fill="#f0e7d8" stroke="#00000000" stroke-width="0" opacity="1" clip-path="url(#t1_2clip)">IT support technician. CompTIA A+ and Google IT Support certified.</text>
+  <text x="2" y="65" font-size="15" font-weight="600" font-family="ui-monospace,Menlo,Consolas,monospace" textLength="558" lengthAdjust="spacingAndGlyphs" class="e1_3" fill="#f0e7d8" stroke="#00000000" stroke-width="0" opacity="1" clip-path="url(#t1_3clip)">Currently preparing for the Azure Administrator exam (AZ-104).</text>
+</svg>
