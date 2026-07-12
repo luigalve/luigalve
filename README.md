@@ -142,7 +142,7 @@ Paste your text, adjust your settings and copy your condensed image.
 ### [AZ-104 Quick Reference](https://github.com/luigalve/az104-reference/)
 **[Try it live](https://luigalve.github.io/az104-reference/)** &middot; [View the source and download the file](https://github.com/luigalve/az104-reference/blob/main/index.html)
 
-A single-file web page that turns all 38 Azure services on the AZ-104 exam into a searchable, filterable cheat sheet, including the exact PowerShell and CLI commands an administrator actually types.<br>
+A single-file web page that turns all 38 Azure services on the AZ-104 exam into a searchable, filterable cheat sheet, including the exact commands an administrator actually types.<br>
 Made for my own studying but built to be modified by anyone.<br>
 Works offline and free to anyone else preparing.<br>
 
@@ -179,13 +179,7 @@ A desktop tool born from a real workflow problem: a manufacturing quality-inspec
 
 *Skills: Python, tkinter, data handling, packaging (PyInstaller), requirements gathering*
 
-### AZ-104 Quick Reference
 
-A single-file web page that turns all 38 Azure services on the AZ-104 exam into a searchable, filterable cheat sheet, including the exact PowerShell and CLI commands an administrator actually types. Built for my own studying. Works offline. Free to anyone else preparing.
-**[Try it live](https://luigalve.github.io/az104-reference/)** &middot; [View the source](https://github.com/luigalve/az104-reference/blob/main/index.html)
-[Use it live]([GitHub Pages link, coming soon]) &middot; [Source]([repo link, coming soon])
-
-*Skills: HTML, CSS, JavaScript, Azure administration, technical writing*
 
 ### 3D Printer From Salvage (in progress)
 
