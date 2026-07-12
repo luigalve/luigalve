@@ -66,7 +66,7 @@ One toggle switches the whole guide between older BIOS machines and newer UEFI o
 <br>
 <br>
 
-### [Build Your Own Walkthrough App](https://luigalve.github.io/build-your-own-walkthrough/)
+### [Build Your Own Walkthrough App](https://github.com/luigalve/build-your-own-walkthrough/)
 
 This 11-step course teaches someone with zero coding experience to plan, hand-build, and publish a walkthrough app like the one above for their own project: HTML, CSS, JSON, and JavaScript, one card at a time, ending with their app live on GitHub Pages. Every bug in its troubleshooting panels happened for real while building it.
 
