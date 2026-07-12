@@ -55,7 +55,7 @@ _Tick the **actions**, complete the **step**, and watch it turn green!_<br>
 
 
 
-### [Install Proxmox on an Old PC](https://luigalve.github.io/proxmox-old-pc/)
+### [Install Proxmox on an Old PC](https://github.com/luigalve/proxmox-old-pc/)
 
 This first 7-step walkthrough takes an older BIOS-only desktop out of retirement and turns it into a running Proxmox server, including every way the hardware fought back and every fix that worked. 
 One toggle switches the whole guide between older BIOS machines and newer UEFI ones, so both paths are covered.
