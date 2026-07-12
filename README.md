@@ -57,30 +57,39 @@ Tick the **actions**, complete the **step**, and watch it turn green!<br>
 <sub>The apps put a single _**step**_ on screen, broken into a short list of checkable _**actions**_, so the task in front of you always feels doable.</sub>
 <br>
 <br>
-<br>
+
+
 
 ### [Install Proxmox on an Old PC](https://github.com/luigalve/proxmox-old-pc/)
+
+**[Try it live](https://luigalve.github.io/proxmox-old-pc/)** &middot; [View the source](https://github.com/luigalve/proxmox-old-pc/blob/main/index.html) &middot; [Take the full guide as one file](https://github.com/luigalve/proxmox-old-pc/blob/main/docs/full-walkthrough.md)
 
 This first 7-step walkthrough takes an older BIOS-only desktop out of retirement and turns it into a running Proxmox server,<br>
 including every way the hardware fought back and every fix that worked. 
 
 One toggle switches the whole guide between older BIOS machines and newer UEFI ones, so both paths are covered.
+<br>
+<br>
 
-**[Try it live](https://luigalve.github.io/proxmox-old-pc/)** &middot; [View the source](https://github.com/luigalve/proxmox-old-pc/blob/main/index.html) &middot; [Take the full guide as one file](https://github.com/luigalve/proxmox-old-pc/blob/main/docs/full-walkthrough.md)
 
-*Skills: Teaching and curriculum design, Proxmox virtualization, Legacy BIOS & UEFI Configuration, Bootloader Mechanics, Checksum Integrity Verification, Network Interface Configuration, Web-Based Hypervisor Management*
+_Skills: Teaching and curriculum design, Proxmox virtualization, Legacy BIOS & UEFI Configuration, Bootloader Mechanics,<br>
+Checksum Integrity Verification, Network Interface Configuration, Web-Based Hypervisor Management_
 <br>
 <br>
-<br>
+
+
+
 
 ### [Build Your Own Walkthrough App](https://github.com/luigalve/build-your-own-walkthrough/)
 
-This 11-step course teaches someone with zero coding experience to plan, hand-build, and publish a walkthrough app like the one above for their own project: HTML, CSS, JSON, and JavaScript, one card at a time, ending with their app live on GitHub Pages. Every bug in its troubleshooting panels happened for real while building it.
-
 **[Try it live](https://luigalve.github.io/build-your-own-walkthrough/)** &middot; [View the source](https://github.com/luigalve/build-your-own-walkthrough/blob/main/index.html) &middot; [Take the full guide as one file](https://github.com/luigalve/build-your-own-walkthrough/blob/main/docs/full-walkthrough.md)
 
+This 11-step course teaches someone with zero coding experience to plan, hand-build, and publish a walkthrough app like the one above for their own project: HTML, CSS, JSON, and JavaScript, one card at a time, ending with their app live on GitHub Pages. Every bug in its troubleshooting panels happened for real while building it.
+<br>
+<br>
 
-*Skills: Teaching and curriculum design, HTML/CSS, JavaScript, JSON, Python docs automation, GitHub Pages*
+
+_Skills: Teaching and curriculum design, HTML/CSS, JavaScript, JSON, Python docs automation, GitHub Pages_
 <br>
 <br>
 <br>
@@ -95,6 +104,7 @@ Just Browsing lets a viewer read everything in a few minutes.<br>
 The app's data block is the single source of truth,<br>
 and the Python scripts in each repo generated the Markdown documentation straight from it,<br>
 so the docs never differ from the app. Change the data in index.html, rerun the script, done.
+<br>
 <br>
 <br>
 
