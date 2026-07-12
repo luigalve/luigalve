@@ -33,36 +33,40 @@ Here are some ideas to get you started:
 </p>
 
 
-<br>
+I learn by building. 
 
-I learn by building. <br>
 Everything below runs on hardware I set up, broke, and fixed myself,<br>
 and nearly all of it is administered remotely.<br>
 
+
 <sub>_This GitHub exists to share the tools I build while studying and show my work in public._</sub>
+
 
 <!-- Optional: a two-line Spanish version of the intro can go here. -->
 
-## One Step at a Time Apps
-
-**Interactive runbooks for completed IT projects** <br>
-The apps put a single **step** on screen, broken into a short list of checkable **actions**, so the task in front of you always feels doable.
 <br>
 
+## One Step at a Time Apps: Interactive runbooks for completed IT projects
 
-_Tick the **actions**, complete the **step**, and watch it turn green!_<br>
-<sub>Built for anyone who has ever gotten lost or overwhelmed halfway through a long guide.</sub>
+
+Built for anyone who has ever gotten lost or overwhelmed halfway through a long guide.
+
+Tick the **actions**, complete the **step**, and watch it turn green!<br>
+
+<sub>The apps put a single _**step**_ on screen, broken into a short list of checkable _**actions**_, so the task in front of you always feels doable.</sub>
 
 
 
 ### [Install Proxmox on an Old PC](https://github.com/luigalve/proxmox-old-pc/)
 
-This first 7-step walkthrough takes an older BIOS-only desktop out of retirement and turns it into a running Proxmox server, including every way the hardware fought back and every fix that worked. 
+This first 7-step walkthrough takes an older BIOS-only desktop out of retirement and turns it into a running Proxmox server,<br>
+including every way the hardware fought back and every fix that worked. 
+
 One toggle switches the whole guide between older BIOS machines and newer UEFI ones, so both paths are covered.
 
 **[Try it live](https://luigalve.github.io/proxmox-old-pc/)** &middot; [View the source](https://github.com/luigalve/proxmox-old-pc/blob/main/index.html) &middot; [Take the full guide as one file](https://github.com/luigalve/proxmox-old-pc/blob/main/docs/full-walkthrough.md)
 
-*Skills: teaching and curriculum design, Proxmox virtualization, Legacy BIOS & UEFI Configuration, Bootloader Mechanics, Checksum Integrity Verification, Network Interface Configuration, Web-Based Hypervisor Management*
+*Skills: Teaching and curriculum design, Proxmox virtualization, Legacy BIOS & UEFI Configuration, Bootloader Mechanics, Checksum Integrity Verification, Network Interface Configuration, Web-Based Hypervisor Management*
 <br>
 <br>
 
@@ -73,7 +77,7 @@ This 11-step course teaches someone with zero coding experience to plan, hand-bu
 **[Try it live](https://luigalve.github.io/build-your-own-walkthrough/)** &middot; [View the source](https://github.com/luigalve/build-your-own-walkthrough/blob/main/index.html) &middot; [Take the full guide as one file](https://github.com/luigalve/build-your-own-walkthrough/blob/main/docs/full-walkthrough.md)
 
 
-*Skills: teaching and curriculum design, HTML/CSS, JavaScript, JSON, Python docs automation, GitHub Pages*
+*Skills: Teaching and curriculum design, HTML/CSS, JavaScript, JSON, Python docs automation, GitHub Pages*
 
 ## How these projects work
 
