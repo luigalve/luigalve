@@ -64,16 +64,18 @@ Tick the **actions**, complete the **step**, and watch it turn green!<br>
 
 **[Try it live](https://luigalve.github.io/proxmox-old-pc/)** &middot; [View the source](https://github.com/luigalve/proxmox-old-pc/blob/main/index.html) &middot; [Take the full guide as one file](https://github.com/luigalve/proxmox-old-pc/blob/main/docs/full-walkthrough.md)
 
-This first 7-step walkthrough takes an older BIOS-only desktop out of retirement and turns it into a running Proxmox server,<br>
-including every way the hardware fought back and every fix that worked. 
+This first 7-step walkthrough takes an older BIOS-only desktop out of retirement<br>
+and turns it into a running Proxmox server, including every way the hardware fought back<br>
+and every fix that worked.<br>
 
-One toggle switches the whole guide between older BIOS machines and newer UEFI ones, so both paths are covered.
+One toggle switches the whole guide between older BIOS machines<br>
+and newer UEFI ones, so both paths are covered.
 <br>
 <br>
 
 
-_Skills: Teaching and curriculum design, Proxmox virtualization, Legacy BIOS & UEFI Configuration, Bootloader Mechanics,<br>
-Checksum Integrity Verification, Network Interface Configuration, Web-Based Hypervisor Management_
+<sub>_Skills: Teaching and curriculum design, Proxmox virtualization, Legacy BIOS & UEFI Configuration,<br>
+Bootloader Mechanics, Checksum Integrity Verification, Network Interface Configuration, Web-Based Hypervisor Management_</sub>
 <br>
 <br>
 
@@ -84,18 +86,21 @@ Checksum Integrity Verification, Network Interface Configuration, Web-Based Hype
 
 **[Try it live](https://luigalve.github.io/build-your-own-walkthrough/)** &middot; [View the source](https://github.com/luigalve/build-your-own-walkthrough/blob/main/index.html) &middot; [Take the full guide as one file](https://github.com/luigalve/build-your-own-walkthrough/blob/main/docs/full-walkthrough.md)
 
-This 11-step course teaches someone with zero coding experience to plan, hand-build, and publish a walkthrough app like the one above for their own project: HTML, CSS, JSON, and JavaScript, one card at a time, ending with their app live on GitHub Pages. Every bug in its troubleshooting panels happened for real while building it.
+This 11-step course teaches someone with zero coding experience to<br>
+plan, hand-build, and publish a walkthrough app like the one above for their own project.<br>
+HTML, CSS, JSON, and JavaScript, one card at a time, ending with their app live on GitHub Pages.<br> 
+Every bug in its troubleshooting panels happened for real while building it.
 <br>
 <br>
 
 
-_Skills: Teaching and curriculum design, HTML/CSS, JavaScript, JSON, Python docs automation, GitHub Pages_
+<sub>_Skills: Teaching and curriculum design, HTML/CSS, JavaScript, JSON, Python docs automation, GitHub Pages_</sub>
 <br>
 <br>
 <br>
 
-### How these projects work<br>
-Each app is one self-contained HTML file.<br>
+### **How these projects work**<br>
+<sub>Each app is one self-contained HTML file.<br>
 It runs as a Github Page and offline without installs.<br>
 <br>
 Hands-on mode walks a learner through the project step by step.<br>
@@ -103,9 +108,38 @@ Just Browsing lets a viewer read everything in a few minutes.<br>
 <br>
 The app's data block is the single source of truth,<br>
 and the Python scripts in each repo generated the Markdown documentation straight from it,<br>
-so the docs never differ from the app. Change the data in index.html, rerun the script, done.
+so the docs never differ from the app. Change the data in index.html, rerun the script, done.</sub>
 <br>
 <br>
+
+---
+<br>
+
+## Tools
+Free, open source, single-file HTML apps. No dependencies, no install, runs offline and locally.<br>
+Download one file and open it in a browser.
+<br>
+<br>
+
+## Foundry Studio
+A visual SVG design studio in a single file. Multi-canvas capsule architecture, shape biting via SVG masks, rotation, and animation presets. I built it to make graphics for my own READMEs after realizing every badge and header service is a dependency that can go down. Anything you make here is a static file in your repo that never breaks.
+[Repo link]
+
+_Pick a style, type your text, export. No accounts and no build step._
+<br>
+<br>
+
+
+### [DensePack](https://github.com/luigalve/DensePack/)
+**[Try it live](https://luigalve.github.io/DensePack/)** &middot; [View the source](https://github.com/luigalve/DensePack/blob/main/index.html)<br>
+
+Converts pasted text into the smallest AI-readable PNG. Configurable fonts, density stats, newline and indentation markers, and a marker clash detector. Built for feeding long documents to vision models without uploading files.
+
+_Paste your text, view at your savings and copy your condensed image._
+<br>
+<br>
+
+---
 <br>
 
 ## On the bench
