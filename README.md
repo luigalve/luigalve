@@ -53,9 +53,11 @@ Built for anyone who has ever gotten lost or overwhelmed halfway through a long 
 
 Tick the **actions**, complete the **step**, and watch it turn green!<br>
 
+
 <sub>The apps put a single _**step**_ on screen, broken into a short list of checkable _**actions**_, so the task in front of you always feels doable.</sub>
-
-
+<br>
+<br>
+<br>
 
 ### [Install Proxmox on an Old PC](https://github.com/luigalve/proxmox-old-pc/)
 
@@ -69,6 +71,7 @@ One toggle switches the whole guide between older BIOS machines and newer UEFI o
 *Skills: Teaching and curriculum design, Proxmox virtualization, Legacy BIOS & UEFI Configuration, Bootloader Mechanics, Checksum Integrity Verification, Network Interface Configuration, Web-Based Hypervisor Management*
 <br>
 <br>
+<br>
 
 ### [Build Your Own Walkthrough App](https://github.com/luigalve/build-your-own-walkthrough/)
 
@@ -78,10 +81,22 @@ This 11-step course teaches someone with zero coding experience to plan, hand-bu
 
 
 *Skills: Teaching and curriculum design, HTML/CSS, JavaScript, JSON, Python docs automation, GitHub Pages*
+<br>
+<br>
+<br>
 
-## How these projects work
-
-Each app is one self-contained HTML file: it runs offline with a double-click, needs no installs, and serves two audiences at once. Hands-on mode walks a learner through the project step by step; Just Browsing lets a recruiter read everything in two minutes. The app's data block is the single source of truth, and the Python scripts in each repo generate the Markdown documentation straight from it, so the docs can never drift from the app. Change the data, rerun the script, done.
+### How these projects work<br>
+Each app is one self-contained HTML file.<br>
+It runs as a Github Page and offline without installs.<br>
+<br>
+Hands-on mode walks a learner through the project step by step.<br>
+Just Browsing lets a viewer read everything in a few minutes.<br>
+<br>
+The app's data block is the single source of truth,<br>
+and the Python scripts in each repo generated the Markdown documentation straight from it,<br>
+so the docs never differ from the app. Change the data in index.html, rerun the script, done.
+<br>
+<br>
 
 ## On the bench
 
