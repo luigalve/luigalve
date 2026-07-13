@@ -35,159 +35,80 @@ Here are some ideas to get you started:
 
 I learn by building. 
 
-Everything below runs on hardware I set up, broke, and fixed myself,<br>
-and nearly all of it is administered remotely.<br>
-
-
-<sub>_This GitHub exists to share the tools I build while studying and show my work in public._</sub>
-
 
 <!-- Optional: a two-line Spanish version of the intro can go here. -->
-
+The live tools below are free, single-file apps I built that run in the browser as GitHub Pages.<br>
+No installs, no logins and works offline by downloading the `index.html` source file from the app's repo. 
 <br>
 
-## One Step at a Time Apps: Interactive runbooks for completed IT projects
-
-
-Built for anyone who has ever gotten lost or overwhelmed halfway through a long guide.
-
-Tick the **actions**, complete the **step**, and watch it turn green!<br>
-
-
-<sub>The apps put a single _**step**_ on screen, broken into a short list of checkable _**actions**_, so the task in front of you always feels doable.</sub>
+<sub>All applications are under active development. Known bugs are listed where they exist.</sub>
 <br>
 <br>
 
+## Most Recent
 
+Offline study reference I packed with AZ-104 notes while working through the exam objectives.<br>
 
-### [Install Proxmox on an Old PC](https://github.com/luigalve/proxmox-old-pc/)
+Made for my own studying but uilt to be used and modified by anyone preparing for the exam.<br>
+_Pick a domain, read the notes, and add to/modify them however you like._
+<br>
 
-**[Try it live](https://luigalve.github.io/proxmox-old-pc/)** &middot; [View the source](https://github.com/luigalve/proxmox-old-pc/blob/main/index.html) &middot; [Take the full guide as one file](https://github.com/luigalve/proxmox-old-pc/blob/main/docs/full-walkthrough.md)
-
-This first 7-step walkthrough takes an older BIOS-only desktop out of retirement<br>
-and turns it into a running Proxmox server, including every way the hardware fought back<br>
-and every fix that worked.<br>
-
-One toggle switches the whole guide between older BIOS machines<br>
-and newer UEFI ones, so both paths are covered.
 <br>
 <br>
 
+| App Repository | Live Link | What it covers | Download |
+| --- | --- | --- | --- |
+| [AZ-104 Reference](https://github.com/luigalve/az104-reference) | [Try the app](https://luigalve.github.io/az104-reference/) | All 38 Azure services on the AZ-104 exam in one searchable, filterable cheat sheet, including the exact commands an administrator actually uses. | [View the source file](https://github.com/luigalve/az104-reference/blob/main/index.html) |
 
-<sub>_Skills: Teaching and curriculum design, Proxmox virtualization, Legacy BIOS & UEFI Configuration,<br>
-Bootloader Mechanics, Checksum Integrity Verification, Network Interface Configuration, Web-Based Hypervisor Management_</sub>
+Use this app to reference/reinforce what you cover.<br>
+<sub>Meant to allow users to focus on the course and augment, NOT REPLACE, any study material.</sub><br>
+
+
 <br>
 <br>
 
+## Walkthrough Apps
 
+Step-by-step apps for IT projects I completed on real hardware.<br>
 
-
-### [Build Your Own Walkthrough App](https://github.com/luigalve/build-your-own-walkthrough/)
-
-**[Try it live](https://luigalve.github.io/build-your-own-walkthrough/)** &middot; [View the source](https://github.com/luigalve/build-your-own-walkthrough/blob/main/index.html) &middot; [Take the full guide as one file](https://github.com/luigalve/build-your-own-walkthrough/blob/main/docs/full-walkthrough.md)
-
-This 11-step course teaches someone with zero coding experience to<br>
-plan, hand-build, and publish a walkthrough app like the one above for their own project.<br>
-HTML, CSS, JSON, and JavaScript, one card at a time, ending with their app live on GitHub Pages.<br> 
-Every bug in its troubleshooting panels happened for real while building it.
-<br>
+Built for anyone who has ever gotten lost or overwhelmed halfway through a long guide.<br>
+_Tick the actions, complete the step, watch it turn green._
 <br>
 
 
-<sub>_Skills: Teaching and curriculum design, HTML/CSS, JavaScript, JSON, Python docs automation, GitHub Pages_</sub>
-<br>
-<br>
-<br>
+| App Repository | Live Link | What it covers | Source |
+| --- | --- | --- | --- |
+| [Proxmox install on an Old PC](https://github.com/luigalve/proxmox-old-pc) | [Try the app](https://luigalve.github.io/proxmox-old-pc/) | 7 steps. Takes a BIOS-only desktop out of retirement and turns it into a running Proxmox server, including every way the hardware fought back and every fix that worked. | [View the source file](https://github.com/luigalve/proxmox-old-pc/blob/main/index.html) |
+| [Build Your Own Walkthrough App](https://github.com/luigalve/build-your-own-walkthrough) | [Try the app](https://luigalve.github.io/build-your-own-walkthrough/) | 11 steps. Teaches someone with zero coding experience to build a walkthrough app like the one above for their own project. | [View the source file](https://github.com/luigalve/build-your-own-walkthrough/blob/main/index.html) |
 
-### **How these projects work**<br>
-<sub>Each app is one self-contained HTML file.<br>
-It runs as a Github Page and offline without installs.<br>
-<br>
-Hands-on mode walks a learner through the project step by step.<br>
-Just Browsing lets a viewer read everything in a few minutes.<br>
-<br>
-The app's data block is the single source of truth,<br>
-and the Python scripts in each repo generated the Markdown documentation straight from it,<br>
-so the docs never differ from the app. Change the data in index.html, rerun the script, done.</sub>
 <br>
 <br>
 
----
-<br>
+## Utility Apps
 
-## Tools
-Free, open source, single-file HTML apps. No dependencies, no install, runs offline and locally.<br>
-Download one file and open it in a browser.
-<br>
-<br>
+Small tools that each solve one specific problem.<br>
 
-## Foundry Studio
-A visual SVG design studio in a single file. Multi-canvas capsule architecture, shape biting via SVG masks, rotation, and animation presets. I built it to make graphics for my own READMEs after realizing every badge and header service is a dependency that can go down. Anything you make here is a static file in your repo that never breaks.
-[Repo link]
+| App Repository | Live Link | What it solves | Download |
+| --- | --- | --- | --- |
+| [DensePack](https://github.com/luigalve/DensePack) | [Try the app](https://luigalve.github.io/DensePack/) | 7 steps. Takes a BIOS-only desktop out of retirement and turns it into a running Proxmox server, including every way the hardware fought back and every fix that worked. | [View the source file](https://github.com/luigalve/DensePack/blob/main/index.html) |
+| [Foundry Studio](https://github.com/luigalve/) | [Try the app](https://luigalve.github.io//) | 11 steps. Teaches someone with zero coding experience to build a walkthrough app like the one above for their own project. | [View the source file](https://github.com/luigalve//blob/main/index.html) |
 
-_Pick a style, type your text, export. No accounts and no build step._
+
 <br>
 <br>
 
+## On the Bench
 
-### [DensePack](https://github.com/luigalve/DensePack/)
-**[Try it live](https://luigalve.github.io/DensePack/)** &middot; [View the source](https://github.com/luigalve/DensePack/blob/main/index.html)<br>
+Built, working, and on the way.
 
-Converts pasted text into the smallest AI-readable PNG. Configurable fonts, density stats, newline and indentation markers, and a marker clash detector. Built for feeding long documents to vision models without uploading files.
-
-Paste your text, adjust your settings and copy your condensed image.
+| Project | Status | Summary |
+| --- | --- | --- |
+| Windows Server Home Lab | Docs queued | Small-business network on a repurposed desktop: domain controller, Group Policy, automatic updates, shared storage, remote desktops, and Entra hybrid sync. Over 10 manually configured server roles. |
+| Home Network Security | Docs queued | Segmented home network with VLANs for IoT and guests, ad and tracker blocking, and a VPN kill switch for selected devices. Publishing as a reference architecture with sanitized configs. |
+| Excel Column Aggregator | Published, app and source coming | Desktop tool that pulls chosen columns from many Excel workbooks into one master file. Built in two weeks for a manufacturing QA team; runs daily in production with zero support tickets. |
+| 3D Printer From Salvage | Build log coming | A working 3D printer built from stepper motors harvested from dead office printers, driven by a $5 ESP32. Slow, cheap, and highly educational. |
 <br>
 <br>
-
-### [AZ-104 Quick Reference](https://github.com/luigalve/az104-reference/)
-**[Try it live](https://luigalve.github.io/az104-reference/)** &middot; [View the source and download the file](https://github.com/luigalve/az104-reference/blob/main/index.html)
-
-A single-file web page that turns all 38 Azure services on the AZ-104 exam into a searchable, filterable cheat sheet, including the exact commands an administrator actually types.<br>
-Made for my own studying but built to be modified by anyone.<br>
-Works offline and free to anyone else preparing.<br>
-
-*Skills: Azure administration, technical writing, documentation*
-
----
-<br>
-
-## On the bench
-
-Each project below is queued to become a walkthrough app like the ones above. Links go live as they publish.
-
-### Windows Server Home Lab
-
-A complete small-business network built on one repurposed desktop: a domain controller managing user accounts and security policies, automatic updates, shared storage, remote desktops, and a live sync to Microsoft's cloud identity service. More than ten server roles, all configured by hand. If a small office needs it, this lab has a working version of it.
-
-[Documentation]([repo link, coming soon])
-
-*Skills: Active Directory, DNS, DHCP, Group Policy, certificates (AD CS), Entra Connect, Azure Arc, RDS, DFS, WSUS, Proxmox virtualization*
-
-### Home Network Security
-
-A standard home router turned into a segmented, monitored network. Smart-home gadgets and guest devices are walled off on their own network segments, ads and trackers are blocked before they ever load, and chosen devices route all traffic through an encrypted VPN tunnel that cuts the connection if the tunnel drops. Published as a reference architecture with sanitized configs.
-
-[Documentation]([repo link, coming soon])
-
-*Skills: VLAN segmentation, firewall rules, DNS filtering, WireGuard VPN, router firmware (Asuswrt-Merlin)*
-
-### Excel Column Aggregator
-
-A desktop tool born from a real workflow problem: a manufacturing quality-inspection team needed measurement columns pulled out of many Excel workbooks into one master file, by hand, every time. I researched the libraries, built the fix in two weeks, and shipped it as a single executable. It has run in daily production since, with zero support tickets. This repo is the generic version: pick your own columns, point it at your own files.
-
-[Download the app]([release link, coming soon]) &middot; [Source]([repo link, coming soon])
-
-*Skills: Python, tkinter, data handling, packaging (PyInstaller), requirements gathering*
-
-
-
-### 3D Printer From Salvage (in progress)
-
-Building a working 3D printer out of stepper motors harvested from dead office printers, driven by a five-dollar ESP32 microcontroller. Slow, cheap, and very educational.
-
-[Build log]([repo link, coming soon])
-
-*Skills: electronics, microcontrollers, hardware troubleshooting*
 
 ## Certifications
 
@@ -195,6 +116,10 @@ Building a working 3D printer out of stepper motors harvested from dead office p
 - Google IT Support Professional Certificate
 - Microsoft Certified: Azure Administrator (AZ-104): in progress
 
-## Contact
+<br>
+
+
+<!-- ## Contact
 
 [LinkedIn]([profile link]) &middot; [email]
+-->
