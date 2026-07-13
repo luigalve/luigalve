@@ -91,7 +91,7 @@ Small tools that each solve one specific problem.<br>
 | App Repository | Live Link | What it Does | Download |
 | --- | --- | --- | --- |
 | [DensePack](https://github.com/luigalve/DensePack) | [Try the app](https://luigalve.github.io/DensePack/) | Converts pasted text into the smallest AI-readable PNG, cutting input token cost by feeding long documents to vision models as image instead or raw text. | [View the source file](https://github.com/luigalve/DensePack/blob/main/index.html) |
-| [Foundry Studio](https://github.com/luigalve/) | [Try the app](https://luigalve.github.io//) | SVG design studio in a single file. Multi-canvas, shape blending with SVG masks, rotation, and animation presets. Create your own Github README animations. | [View the source file](https://github.com/luigalve//blob/main/index.html) |
+| [Foundry Studio](https://github.com/luigalve/FoundryStudio) | [Try the app](https://luigalve.github.io/FoundryStudio/) | SVG design studio in a single file. Multi-canvas, shape blending with SVG masks, rotation, and animation presets. Create your own Github README animations. | [View the source file](https://github.com/luigalve/FoundryStudio/blob/main/index.html) |
 <br>
 
 ### Known Issues
