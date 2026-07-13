@@ -82,6 +82,7 @@ _Tick the actions, complete the step, watch it turn green._
 <br>
 Built for anyone who has ever gotten lost or overwhelmed halfway through a long guide.<br>
 <br>
+<br>
 
 ## Utility Apps
 
@@ -93,13 +94,14 @@ Small tools that each solve one specific problem.<br>
 | [Foundry Studio](https://github.com/luigalve/) | [Try the app](https://luigalve.github.io//) | SVG design studio in a single file. Multi-canvas, shape blending with SVG masks, rotation, and animation presets. Create your own Github README animations. | [View the source file](https://github.com/luigalve//blob/main/index.html) |
 <br>
 
-**Known Issues**
+### Known Issues
+
+DensePack:
 <br>
-<br>
-**DensePack:**<br>
 Readability drops when AI providers resize large images. Color coding added. Additional fix in progress.<br>
 <br>
-**FoundryStudio:**<br> 
+FoundryStudio:
+<br> 
 Exported SVGs do not render cleanly on mobile. Fix in progress.
 <br>
 <br>
