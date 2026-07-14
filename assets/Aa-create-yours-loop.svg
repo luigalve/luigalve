@@ -1,0 +1,10 @@
+<svg viewBox="0 0 666 33" width="666" height="33" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img">
+<!-- Made with Foundry Studio. No script, no CSS animation, no external
+     request. Motion is SMIL, which the SVG engine runs itself, so it
+     survives mobile Safari, where CSS keyframes on SVG text and CSS
+     filter on SVG do not. Delete every animation element below and the
+     markup is still the finished picture: a renderer that ignores
+     motion shows the right thing, not a blank or a half-state. -->
+<style>@media(prefers-reduced-motion:reduce){.fsa{opacity:1 !important;transform:none !important}[stroke-dasharray]{stroke-dashoffset:0 !important}}</style>
+  <g class="fsa"><animate attributeName="opacity" begin="0s" dur="18.9s" values="0;0;1;1;0;0" keyTimes="0;0.6561;0.709;0.9101;0.9735;1" calcMode="spline" keySplines="0 0 1 1;.25 .1 .25 1;0 0 1 1;.25 .1 .25 1;0 0 1 1" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" additive="sum" begin="0s" dur="18.9s" values="0,0;0,0;0,50;0,50" keyTimes="0;0.9101;0.9735;1" calcMode="spline" keySplines="0 0 1 1;.25 .1 .25 1;0 0 1 1" repeatCount="indefinite"/><text x="301" y="23" font-size="16" font-weight="600" font-family="ui-monospace,Menlo,Consolas,monospace" fill="#24a950" opacity="1">Create yours with Foundry Studio below</text></g>
+</svg>
