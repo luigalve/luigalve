@@ -94,17 +94,10 @@ Small tools that each solve one specific problem.<br>
 | [DensePack](https://github.com/luigalve/DensePack) | [Try the app](https://luigalve.github.io/DensePack/) | Converts pasted text into the smallest AI-readable PNG, cutting input token cost by feeding long documents to vision models as image instead or raw text. | [View the source file](https://github.com/luigalve/DensePack/blob/main/index.html) |
 <br>
 
-### Known Issues
 
-DensePack:
 <br>
-Readability drops when AI providers resize large images. Color coding added. Additional fix in progress.<br>
-<br>
-FoundryStudio:
-<br> 
-Exported SVGs do not render cleanly on mobile. Fix in progress.
-<br>
-<br>
+
+---
 <br>
 
 ## On the Bench
@@ -116,7 +109,6 @@ Built, working, and on the way. <br>
 | Windows Server Home Lab | Docs queued | Small-business network on a repurposed desktop: domain controller, Group Policy, automatic updates, shared storage, remote desktops, and Entra hybrid sync. Over 10 manually configured server roles. |
 | Home Network Security | Docs queued | Segmented home network with VLANs for IoT and guests, ad and tracker blocking, and a VPN kill switch for selected devices. Publishing as a reference architecture with sanitized configs. |
 | Excel Column Aggregator | Published, app and source coming | Desktop tool that pulls chosen columns from many Excel workbooks into one master file. Built in two weeks for a manufacturing QA team; runs daily in production with zero support tickets. |
-| 3D Printer From Salvage | Build log coming | A working 3D printer built from stepper motors harvested from dead office printers, driven by a $5 ESP32. Slow, cheap, and highly educational. |
 <br>
 <br>
 
