@@ -1,35 +1,7 @@
-<!--
-**luigalve/luigalve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-<p align="center">
-  <img src="./assets/capsule-1.svg" alt="" />
-</p>
-
-<p align="center">
-  <img src="./assets/capsule-2.svg" alt="" />
-</p>
-
-<p align="center">
-  <img src="./assets/capsule-3.svg" alt="" />
-</p>
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- Profile README. Everything in [brackets] is a placeholder to fill in.
-     This file lives in a public repo named EXACTLY the same as your username.
-     That is what makes it render on your profile page.
-     House style: no em dashes, no emoji, no badges. -->
 
 <p align="left">
   <img src="./assets/A-Readme-FS-01.svg" alt="Hi, I'm Luis" />
-  <img src="./assets/Aa-create-yours-loop.svg" alt="" />
+  <img src="./assets/Aa-create-yours-loop.svg" alt="Animated FoundryStudio banner built with the app itself" />
   <img src="./assets/B-Readme-slide-01.svg" alt="IT support technician. CompTIA A+ and Google IT Support certified. Currently preparing for the Azure Administrator exam (AZ-104)." />
 </p>
 
